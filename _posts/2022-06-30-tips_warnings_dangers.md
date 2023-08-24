@@ -1,6 +1,6 @@
 ---
 title: Tips, Warnings, and Dangers
-author: Tao He
+author: Seaton Wang
 date: 2022-06-30
 category: Jekyll
 layout: post
